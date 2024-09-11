@@ -1,116 +1,88 @@
-<div>
-  <h1 align="center"> 
-    <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Srishti Singh</mark></strong><img src="https://media.giphy.com/media/3ohzdJFbmlJ3mQFRYI/giphy.gif" width="90px">
-    <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> Machine Learning  <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> and brushing up my basics. </strong>
-    <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
-  </h1>
-</div>
-
----
-
-<div>
-  <div align="right">
-    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
-  </div>
-  
-  <div align="left">
-    <p align="center">  
-      <h3 align="center">
-        <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
-        <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/LncsBVKWzRKRpzEdMw/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
-      </h3>
-      <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
-      <p align="center">
-        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-        <code><a href="https://matplotlib.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
-        <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
-      </p>
-    </p>
-   </div>
- </div>
-  
----
-
-<div>
-<p align="left">
-  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
-  <img align="center" src="https://media.giphy.com/media/H7YO03BHmBMWuWUkez/giphy.gif" width="180px">
-</p></div>
-<br>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Prashant Singh
+<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
+<p align ="left">
+<img src="https://github-readme-stats.vercel.app/api?username=singh08prashant&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
-<h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3>
-<!-- For making transition -->
-<p align="center">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
-<img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="400px"></p>
+<img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+---
+
+
+<center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span> <b>Google Cloud Platform</b></span><br><br><br>
+        <img height="128px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+         <span><b>Tensorflow 2.0</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Python 3</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 </p>
 
+<hr>
 
-## ⭐️ From [@Srishti](https://github.com/SrishtiSinghD) 
-<h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
+### 📝 Latest articles from [dev.to](https://dev.to/singh08prashant)
+
+* Jul 11 2020 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine](https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb) 
+
+<p align = "center">
+ <a href="https://twitter.com/s08prashant">
+  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prashant-singh-08/">
+  <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/singh08prashant">
+  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/s08prashant">
+  <img align="center" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/singh08prashant">
+  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsingh08prashant" />
+<img src="https://komarev.com/ghpvc/?username=singh08prashant" alt="singh08prashant" />
+
+</p>
+
+⭐️ From [singh08prashant](https://github.com/singh08prashant)
